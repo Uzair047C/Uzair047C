@@ -17,8 +17,6 @@ I am a learner focused on AI, machine learning, and modern cloud-native developm
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-5B5B5B?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### AI / ML
 
@@ -33,6 +31,13 @@ I am a learner focused on AI, machine learning, and modern cloud-native developm
 ![AI%20Agents](https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
 ![Vector%20Databases](https://img.shields.io/badge/Vector%20Databases-2563EB?style=for-the-badge)
+
+### Generative AI & Edge AI
+
+![Generative%20AI](https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge)
+![Jetson%20Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF6B00?style=for-the-badge)
 
 ### Cloud & DevOps
 
