@@ -58,8 +58,12 @@ I am a learner focused on AI, machine learning, and modern cloud-native developm
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uzair047C&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair047C&layout=compact&theme=tokyonight" height="170" />
+  <a href="https://github.com/Uzair047C">
+    <img src="https://github-readme-stats.vercel.app/api?username=Uzair047C&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Uzair's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Uzair047C">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair047C&layout=compact&theme=tokyonight&hide_border=true" alt="Uzair's Top Languages" />
+  </a>
 </p>
 
 ## 📫 Connect With Me
