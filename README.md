@@ -138,8 +138,6 @@ An end-to-end AI-powered gas meter reading system.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Uzair047C&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair047C&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
