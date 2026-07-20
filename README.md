@@ -113,11 +113,10 @@ An end-to-end AI-powered gas meter reading system.
 
 - Python
 - YOLOv8
-- PaddleOCR
+- PaddleOCR custom training via cuda
 - TensorFlow
 - OpenCV
-- NumPy
-- Pandas
+- CNNS
 
 ---
 
